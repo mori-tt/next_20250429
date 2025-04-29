@@ -101,3 +101,5 @@ export default async function Page({ params }: PageProps) {
   return <CategoryPage category={category} />;
 }
 
+
+
